@@ -1,0 +1,36 @@
+=====================================================
+PROJECT: AssetTrack - Corporate Asset Management
+=====================================================
+
+1. UNDERSTANDING OF REQUIREMENTS
+The client needs a centralized internal tool to manage company hardware and 
+software. The main goal is to eliminate manual tracking and ensure 
+accountability by linking every asset (laptops, peripherals, licenses) 
+to a specific employee ID.
+
+2. CREATIVE FREEDOMS & SCOPE
+* Name: "AssetTrack"
+* Scope Expansion: Added a "Maintenance Mode" to track items currently 
+  being repaired.
+* UI Concept: Planned a dashboard for the IT department to see total 
+  inventory value and distribution at a glance.
+
+3. ASSUMPTIONS
+* Each asset has a unique physical tag (Barcode/QR).
+* The software will be used by the IT/Admin department, not by 
+  the employees themselves.
+* The company uses a standard Windows/Mac environment for the 
+  software to run.
+
+4. CORE FEATURE LIST
+* Inventory Registry: Add, edit, and delete asset records.
+* Allocation System: Assign items to employees with a "date issued" stamp.
+* Return Workflow: Mark items as returned and check for damage.
+* History Tracking: View a log of all previous users of a single device.
+* Search/Filter: Quickly find assets by Category, Status, or Employee Name.
+
+5. QUESTIONS FOR CLIENT MEET #2
+* Should the system handle software license renewals/expirations?
+* Do you require digital signatures from employees when they receive an item?
+* How should we handle "retired" assets that are no longer in use?
+=====================================================
