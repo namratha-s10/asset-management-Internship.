@@ -1,0 +1,6 @@
+RESOURCE: Assets
+- POST /assets/ : Add a new company asset (name, category, serial_number)
+- GET /assets/ : List all company assets
+
+RESOURCE: Users
+- GET /users/ : List all employees
